@@ -8,7 +8,7 @@ This is a class project, not a job. I have not spoken to a real bettor.
 
 ## The decision, in one picture
 
-[ASK ME: is your bar chart built? If not, this section reads "coming Nov 23".]
+Coming Nov 23.
 
 ## AI use disclosure
 
