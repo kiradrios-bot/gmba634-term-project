@@ -1,4 +1,4 @@
-# [ASK ME: what is your project title?]
+# Does Rest Matter in NFL Games?
 
 This is a class project, not a job. I have not spoken to a real bettor.
 
