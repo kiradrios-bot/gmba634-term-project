@@ -1,0 +1,1 @@
+AI USE LINE: I gave this LLM a copy of my class repo so it could read my files. Claude (Anthropic) uploaded my files to the repo from my browser with my approval, and I wrote every claim, box and number myself.
